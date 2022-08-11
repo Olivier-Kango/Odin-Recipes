@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: blanchedalmond;
+}
+#pizza {
+    width: 700px;
+    height:500px;
+} 
+div {
+    width: 700px;
+    margin: auto;
+}
+#title {
+    font-size: 50px;
+    color: rgb(142, 3, 77);
+}
+h1 {
+    color: rgb(2, 2, 122);
+}
+#home:hover {
+    color: red;
+}
+
+ul, ol {
+    text-align: left; 
+    display: inline-block; 
+    font-size: 120%; 
+}
+  
+p {
+    font-size: 120%;
+  }

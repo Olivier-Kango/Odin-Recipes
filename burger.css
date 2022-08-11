@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+#burger {
+    width: 700px;
+    height:500px;
+} 
+div {
+    width: 700px;
+    margin: auto;
+}
+#title { color: yellow;
+    font-size: 40px;
+}
+h1 {
+    color: yellowgreen;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+    font-size: 120%;
+}
+  
+p {
+    font-size: 120%;
+  }
+#home:hover {
+    color: red;
+}

@@ -1,0 +1,39 @@
+body {
+    background: url(./recipes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font-size: 64px;
+    text-align: center;
+}
+div {
+    width: 500px;
+    height: auto;
+    background: rgba(255, 255, 255, 0.099);
+    text-align: center;
+    margin: auto;
+}
+#top {
+    padding-top: 10%;
+}
+#down {
+    padding-bottom: 10%;
+}
+.headding:hover {
+    padding-top: 0;
+    color: red;
+  
+}
+.headding {
+    color: yellow;
+  
+}
+footer {
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+span {
+    color: rgb(4, 4, 4);
+}

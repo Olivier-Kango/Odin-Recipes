@@ -1,0 +1,31 @@
+body {
+   background: url(https://preppykitchen.com/wp-content/uploads/2021/04/Milkshake-Recipe-Card.jpg); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+div {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+ul, ol {
+    text-align: left;
+    display: inline-block;
+}
+.body {
+    background: rgba(255, 255, 255, 0.514);
+    color: rgb(2, 2, 125);
+    padding:4%;
+}
+
+.header {
+    background: rgba(251, 220, 220, 0.852);
+    padding: 5%;
+    color: rgb(48, 25, 25);
+}
+h1 {
+    margin-top: 0;
+}
+#home:hover {
+    color: red;
+}
